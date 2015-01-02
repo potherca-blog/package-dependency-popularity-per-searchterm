@@ -1,0 +1,11 @@
+PaDePoPeS - Package Dependency Popularity Per-Searchterm
+============================================
+
+Want to know which Packagist dependancies are most popular for a certain term? 
+
+Visit [the web-app](http://padepopes.herokuapp.com/), enter a search term, press <kbd>Enter</kbd> and found out!
+
+
+## Disclamer
+
+Although this works, the code is a **very** rough proof-of-concept.
