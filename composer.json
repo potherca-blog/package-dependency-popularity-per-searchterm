@@ -1,0 +1,16 @@
+{
+    "name": "potherca/package-dependency-popularity-per-searchterm",
+    "description": "When given a searchterm, it will return a count of dependencies for the found packages, sorted by popularity",
+    "homepage": "https://github.com/potherca/package-dependency-popularity-per-searchterm",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Potherca",
+            "email": "potherca@gmail.com",
+            "homepage": "http://pother.ca/",
+            "role": "Kick-ass Web Developer"
+        }
+    ],
+    "require": {
+    }
+}
