@@ -223,9 +223,7 @@ function outputHeader() {
     </style>
     <script>
         window.intervalID = window.setInterval(function() {
-          var elem = document.getElementsByTagName('body')[0];
-          elem.scrollTop = elem.scrollHeight;
-          console.log('scrolling...');
+            document.querySelector( 'p:last-of-type' ).scrollIntoView();
         }, 500);
     </script>
 
